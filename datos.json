@@ -1,0 +1,1 @@
+{"Empleados":[{"Id":1,"Nombre":"Reinoso Haro Ariel Ramiro"},{"Id":2,"Nombre":"Perez Zuni Carlos Juan"}],"Aportes":[{"EmpleadoId":1,"Monto":250,"Fecha":"2025-01-08T15:04:43.1172521-05:00"},{"EmpleadoId":2,"Monto":250,"Fecha":"2025-01-08T15:42:54.313115-05:00"},{"EmpleadoId":2,"Monto":30,"Fecha":"2025-01-08T15:43:11.2537449-05:00"}]}
