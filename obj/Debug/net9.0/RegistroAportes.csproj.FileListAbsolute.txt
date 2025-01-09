@@ -7,9 +7,9 @@ C:\Users\Leodd\RegistroAportes\obj\Debug\net9.0\RegistroAportes.GeneratedMSBuild
 C:\Users\Leodd\RegistroAportes\obj\Debug\net9.0\RegistroAportes.AssemblyInfoInputs.cache
 C:\Users\Leodd\RegistroAportes\obj\Debug\net9.0\RegistroAportes.AssemblyInfo.cs
 C:\Users\Leodd\RegistroAportes\obj\Debug\net9.0\RegistroAportes.csproj.CoreCompileInputs.cache
+C:\Users\Leodd\RegistroAportes\obj\Debug\net9.0\RegistroAportes.sourcelink.json
 C:\Users\Leodd\RegistroAportes\obj\Debug\net9.0\RegistroAportes.dll
 C:\Users\Leodd\RegistroAportes\obj\Debug\net9.0\refint\RegistroAportes.dll
 C:\Users\Leodd\RegistroAportes\obj\Debug\net9.0\RegistroAportes.pdb
 C:\Users\Leodd\RegistroAportes\obj\Debug\net9.0\RegistroAportes.genruntimeconfig.cache
 C:\Users\Leodd\RegistroAportes\obj\Debug\net9.0\ref\RegistroAportes.dll
-C:\Users\Leodd\RegistroAportes\obj\Debug\net9.0\RegistroAportes.sourcelink.json

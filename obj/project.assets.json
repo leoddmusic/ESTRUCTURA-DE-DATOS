@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Leodd\\RegistroAportes\\RegistroAportes.csproj",
+      "projectUniqueName": "c:\\Users\\Leodd\\RegistroAportes\\RegistroAportes.csproj",
       "projectName": "RegistroAportes",
-      "projectPath": "C:\\Users\\Leodd\\RegistroAportes\\RegistroAportes.csproj",
+      "projectPath": "c:\\Users\\Leodd\\RegistroAportes\\RegistroAportes.csproj",
       "packagesPath": "C:\\Users\\Leodd\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Leodd\\RegistroAportes\\obj\\",
+      "outputPath": "c:\\Users\\Leodd\\RegistroAportes\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Leodd\\AppData\\Roaming\\NuGet\\NuGet.Config"
