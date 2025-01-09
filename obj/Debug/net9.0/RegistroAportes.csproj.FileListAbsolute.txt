@@ -12,3 +12,4 @@ C:\Users\Leodd\RegistroAportes\obj\Debug\net9.0\refint\RegistroAportes.dll
 C:\Users\Leodd\RegistroAportes\obj\Debug\net9.0\RegistroAportes.pdb
 C:\Users\Leodd\RegistroAportes\obj\Debug\net9.0\RegistroAportes.genruntimeconfig.cache
 C:\Users\Leodd\RegistroAportes\obj\Debug\net9.0\ref\RegistroAportes.dll
+C:\Users\Leodd\RegistroAportes\obj\Debug\net9.0\RegistroAportes.sourcelink.json
